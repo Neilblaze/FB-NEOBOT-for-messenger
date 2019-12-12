@@ -508,5 +508,5 @@ class FacebookBot(webdriver.PhantomJS):
     			#print("Previous")
     			self.get(previusURL)
     		#print(n,"-   ",imageurl)
-    	return imagesURL
+        
 
