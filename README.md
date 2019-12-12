@@ -1,6 +1,6 @@
 # Facebook NEOBOT @Messenger for WEB
 
-=======================
+=================================================================================
 
 A simple library to automatize facebook without the official API
 All the functions are made scrapping and parsing mbasic.facebook.com
