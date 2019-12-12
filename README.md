@@ -36,7 +36,9 @@ for p in allpost:
 	print(p)
 ```
 ## Installing
+```
 pip install FacebookWebBot
+```
 ## Know issues:
 
     * Can't post images because PhantomJS limitations.
