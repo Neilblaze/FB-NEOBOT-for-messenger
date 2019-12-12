@@ -1,4 +1,4 @@
-# FacebookWebBot
+# Facebook NEOBOT @Messenger for WEB
 
 =======================
 
@@ -41,7 +41,7 @@ pip install FacebookWebBot
 
 ## Dependencies:
 
-    * Python 3.4
+    * Python 3.4 or above
 
     * Selenium
 
