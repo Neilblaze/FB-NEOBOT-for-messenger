@@ -10,7 +10,7 @@ All the functions are made scrapping and parsing mbasic.facebook.com
 ## Available functions:
 
     Login
-    Logout
+    Logout 
 	Post in your timeline
 	Message friends
 	Get post in a facebook group
